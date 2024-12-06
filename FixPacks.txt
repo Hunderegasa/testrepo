@@ -1,0 +1,8 @@
+https://www.ibm.com/support/fixcentral/swg/downloadFixes?parent=ibm~Information%20Management&product=ibm/Information+Management/DB2&release=11.5.*&platform=Linux+64-bit,x86_64&function=fixId&fixids=DB2-linuxx64-universal_fixpack-11.5.7.0-FP000&includeRequisites=1&includeSupersedes=0&downloadMethod=http
+
+
+https://www.ibm.com/support/fixcentral/swg/downloadFixes?parent=ibm~Rational&product=ibm/Rational/IBM+Installation+Manager&release=1.9.2.2&platform=Linux&function=fixId&fixids=1.9.2.2-IBMIM-LINUX-X86_64-20220323_1321&useReleaseAsTarget=true&includeRequisites=1&includeSupersedes=0&downloadMethod=http
+
+https://www.ibm.com/support/fixcentral/swg/downloadFixes
+https://www.ibm.com/support/fixcentral/?lnk=fpl-fcen
+https://www.ibm.com/support/fixcentral/swg/downloadFixes?parent=ibm~Information%20Management&product=ibm/Information+Management/DB2&release=11.1.*&platform=Linux+64-bit,x86_64&function=fixId&fixids=DB2-linuxx64-universal_fixpack-11.1.4.7-FP007&includeRequisites=1&includeSupersedes=0&downloadMethod=http
